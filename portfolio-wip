@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>CSS: The Missing Manual</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" href="css/normalize.css">
+	
+<link rel="stylesheet" href="css/skeleton.css">
+	
+<link rel="stylesheet" href="css/custom.css">
+	
+<link href="css/print.css" rel="stylesheet" type="text/css" media="print"/>
+	
+
+	
+</head>
+<body>
+	
+<!-- top section -->
+
+<div class="secion header">
+<div class="container">
+	
+<div class="row">
+	<div class="four columns">
+	<p class="logo">renee / art</p>
+	</div>
+		
+<div class="eight columns nav">
+	<a class="button button-primary" href="#">home</a>
+<a class="button" href="https://www.instagram.com/ghostburrx/">instagram</a>
+<a class="button" href="#">about</a>
+<a class="button" href="https://www.artbyreneemaria.com/">elsewhere</a>
+		</div>
+	</div>
+	<div class="row">
+	<div class="row action">
+	</div>
+	</div>
+	</div>
+	</div>
+	
+<!-- info section -->
+
+<div class="container">
+<div class="row">
+<p></p>
+  </div>
+	<div class="row">
+	<div class="four columns">
+      <p><img src="imgs/art1.jpg" width="240" height="330" alt=""/></p>
+      
+    </div>
+    <div class="four columns">
+      <p><img src="imgs/art2.jpg" width="240" height="330" alt=""/></p>
+      
+    </div>
+    <div class= "four columns">
+      <p><img src="imgs/art3.jpg" width="240" height="330" alt=""/></p>
+      
+    </div>
+  </div>
+</div>
+
+
+<!-- footer -->
+	
+<div class="container">
+  <div class="row">
+    <div class="eight columns">
+      <p>© renee clayton, 2018 </p>
+    </div>
+    <div class="four columns">
+      <form>
+        <label for="exampleEmailInput">contact</label>
+        <input class="u-full-width" type="email" placeholder="test@mailbox.com" id="exampleEmailInput">
+        <input class="button-primary" type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
